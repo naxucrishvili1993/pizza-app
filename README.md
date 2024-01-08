@@ -9,7 +9,7 @@ You can view the project live here:
 
 ### Table of Contents
 
-- [Project-requirements-from-the-business](#project-requirements-from-the-business)
+- [Project-requirements-from-the-business](#project-requirements)
 - [Getting Started](#getting-started)
 - [References](#references)
 
@@ -36,8 +36,6 @@ You can view the project live here:
 - React Router
 - Redux
 
-[Back To The Top](#fast-react-pizza-co.)
-
 ---
 
 ## Getting Started
@@ -45,12 +43,8 @@ You can view the project live here:
 To start the project, it is necessary to download the files from the github repository and after that run this commands:
 <br>`'npm i'` <br> `'npm run dev'`
 
-[Back To The Top](#fast-react-pizza-co.)
-
 ---
 
 ## References
 
 I made this project with the help of Jonas Schmedtmann in the React course: [React course](https://www.udemy.com/course/the-ultimate-react-course/)
-
-[Back To The Top](#fast-react-pizza-co.)
